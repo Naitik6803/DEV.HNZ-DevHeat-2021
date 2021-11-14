@@ -37,7 +37,7 @@ function MainNav () {
                             <Link to = "user">Appoint-ment</Link>
                         </Nav.Link>
                         <Nav.Link className = "nav_item">
-                            <Link to = "user">Private-talk</Link>
+                            <Link to = "user">Privatetalk</Link>
                         </Nav.Link>
                     </Nav>
                     <Nav className = "right_side_navbar">
